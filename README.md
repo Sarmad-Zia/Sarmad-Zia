@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **React Formik, TypeScript and MERN Stack**
 
-- 👨‍💻 All of my projects are available at [sarmad-zia.netlify.app](sarmad-zia.netlify.app)
+- 👨‍💻 All of my projects are available at [sarmad-zia-portfolio.vercel.app (faster)](https://sarmad-zia-portfolio.vercel.app/)  (Faster) 
+-                                        [sarmad-zia-portfolio.netlify.app](https://sarmad-zia-portfolio.netlify.app/)
 
 - 💬 Ask me about **javascript, React, TypeScripy**
 
